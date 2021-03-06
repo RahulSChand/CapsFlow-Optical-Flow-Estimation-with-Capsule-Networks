@@ -12,3 +12,8 @@ Code for my paper CapsFlow: Optical Flow Estimation with Capsule Networks (which
 2. TensorboardX
 3. PIL
 4. skimage
+
+
+**How to Run**
+
+1. main.py (without any arguments) will run start training the model for shape dataset, the dataset is generated at runtime from data_shape_double.py
