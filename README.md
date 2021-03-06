@@ -29,7 +29,7 @@ Code for my paper CapsFlow: Optical Flow Estimation with Capsule Networks (which
 
 For shape dataset
 
---------------
+
 Ground truth
 
 ![Groun truth 1](results_chair/ground1.png)
@@ -37,7 +37,14 @@ Ground truth
 Prediction
 
 ![Prediction 1](results_chair/prediction1.png)
-
 -------------
+
+Ground truth
+
+![Groun truth 1](results_chair/ground2.png)
+
+Prediction
+
+![Prediction 1](results_chair/prediction2.png)
 
 
