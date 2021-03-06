@@ -16,4 +16,4 @@ Code for my paper CapsFlow: Optical Flow Estimation with Capsule Networks (which
 
 **How to Run**
 
-1. main.py (without any arguments) will run start training the model for shape dataset, the dataset is generated at runtime from data_shape_double.py
+1. `python main.py` (without any arguments) will run start training the model for shape dataset, the dataset is generated at runtime from `data_shape_double.py`
