@@ -31,10 +31,10 @@ For shape dataset
 
 --------------
 Ground truth
-![Groun truth 1](results_chair/ground1.PNG)
+![Groun truth 1](results_chair/ground1.png)
 
 Prediction
-![Prediction 1](results_chair/prediction1.PNG)
+![Prediction 1](results_chair/prediction1.png)
 
 -------------
 
