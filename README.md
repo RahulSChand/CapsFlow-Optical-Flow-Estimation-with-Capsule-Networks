@@ -25,6 +25,17 @@ Code for my paper CapsFlow: Optical Flow Estimation with Capsule Networks (which
 
 -------------
 
-####Results
+**Results**
 
 For shape dataset
+
+--------------
+Ground truth
+![Groun truth 1](results_chair/ground1.PNG)
+
+Prediction
+![Prediction 1](results_chair/prediction1.PNG)
+
+-------------
+
+
