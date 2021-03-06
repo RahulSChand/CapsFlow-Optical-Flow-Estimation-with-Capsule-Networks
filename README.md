@@ -4,4 +4,4 @@ Code for my paper CapsFlow: Optical Flow Estimation with Capsule Networks (which
 
 **Architechure for the model**
 
-![capsule network for optical flow](https://github.com/RahulSChand/CapsFlow-Optical-Flow-Estimation-with-Capsule-Networks/master/detail_image/network_arch.png?raw=true)
+![capsule network for optical flow](detail_image/network_arch.png)
